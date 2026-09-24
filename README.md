@@ -8,7 +8,7 @@ This project analyzes a real-world dataset using Python, pandas, NumPy, Matplotl
 
 ## Notebook
 
-[Open the complete analysis notebook](notebooks/netflix_project_final.ipynb)
+[Open the complete analysis notebook](netflix_project_final.ipynb)
 
 ## Skills demonstrated
 
